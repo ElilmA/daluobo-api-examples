@@ -1,0 +1,14 @@
+{
+  "name": "daluobo-api-examples",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "chat": "node examples/node_chat.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.104.0"
+  }
+}
+
